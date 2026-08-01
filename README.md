@@ -77,7 +77,7 @@ Currently focused on becoming an industry-ready Software Engineer by building pr
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/nikitapatil18/nikitapatil18/output/github-contribution-grid-snake.svg)
 
 ---
 
