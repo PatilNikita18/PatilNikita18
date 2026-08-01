@@ -12,9 +12,8 @@ Currently focused on becoming an industry-ready Software Engineer by building pr
 
 ## 📫 Contact Me
 
-📧 Email: your-email@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: np7259658@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/nikita-patil-980682269
 
 🌐 Portfolio: Coming Soon
 
@@ -58,29 +57,6 @@ Currently focused on becoming an industry-ready Software Engineer by building pr
 
 # 🚀 Featured Projects
 
-## 🎯 Real-Time Event Management Platform
-
-Spring Boot • React • PostgreSQL • JWT • WebSocket
-
-A platform for registrations, judging, scoring, and live event management.
-
----
-
-## 📈 Social Media Analytics Dashboard
-
-React • FastAPI • PostgreSQL
-
-AI-powered dashboard for sentiment analysis and trend visualization.
-
----
-
-## 🤖 AI Learning Platform
-
-React • Python • FastAPI
-
-Adaptive learning platform with personalized educational content.
-
----
 
 # 📚 Currently Learning
 
@@ -90,22 +66,6 @@ Adaptive learning platform with personalized educational content.
 - AWS
 - System Design
 - Redis
-
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
