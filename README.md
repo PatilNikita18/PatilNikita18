@@ -71,7 +71,7 @@ Currently focused on becoming an industry-ready Software Engineer by building pr
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![(https://raw.githubusercontent.com/PatilNikita18/PatilNikita18/output/github-contribution-grid-snake.svg)
 
 ---
 
